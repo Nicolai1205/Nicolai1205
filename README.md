@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolai1205
+- 👋 Hi, I’m Nicolai Søndergaard
 - 👀 I’m interested in ... Data Science, Blockchain, Video games.
 - 🌱 I’m currently learning ... Python, SQL & Tableau
 - 💞️ I’m looking to collaborate on ... School projects, currently income prediction using machine learning and XAI
