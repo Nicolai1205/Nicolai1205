@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicolai1205
-- 👀 I’m interested in ... Data analysis, Crypto, Gaming.
+- 👀 I’m interested in ... Data Science, Blockchain, Video games.
 - 🌱 I’m currently learning ... Python, SQL & Tableau
 - 💞️ I’m looking to collaborate on ... School projects, currently income prediction using machine learning and XAI
 - 📫 How to reach me ... Reach out here. As I progress I will add other means of contact.
