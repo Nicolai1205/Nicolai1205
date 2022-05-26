@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolai Søndergaard
 - 👀 I’m interested in ... Data Science, Blockchain, Video games.
 - 🌱 I’m currently learning ... Python, SQL & Tableau
-- 💞️ I’m looking to collaborate on ... School projects, currently income prediction using machine learning and XAI
+- 💞️ I’m looking to collaborate on ... Projects regarding data analysis and exploration or machine learning with predictions
 - 📫 How to reach me ... Reach out here. As I progress, I will add other means of contact.
 
 <!---
