@@ -5,6 +5,7 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 For an informal view into my hobby @ [Twitch](https://www.twitch.tv/xxgaard).
 
 ## Bibliography
+https://www.codewars.com/users/Nicolai1205/badges/micro
 -  I’m a MSc student at ZHAW studying Banking and Finance and majoring in capital markets and datascience.
 -  I love coffee to the point where I buy decaf just so I can get the the smell, flavor and still sleep at night. :)
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons, browsing memes and more!
