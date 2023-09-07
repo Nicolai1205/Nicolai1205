@@ -2,7 +2,6 @@
 ## How to Reach me ->
 Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolaisoendergaarddk/).
 To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
-For an informal view into my hobby @ [Twitch](https://www.twitch.tv/xxgaard).
 
 ## Bibliography
 ![image](https://www.codewars.com/users/Nicolai1205/badges/micro)
