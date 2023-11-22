@@ -5,7 +5,7 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 
 ## Bibliography
 ![image](https://www.codewars.com/users/Nicolai1205/badges/micro)
--  I’m a MSc student at ZHAW studying Banking and Finance and majoring in capital markets and datascience.
+-  MSc ZHAW studying Banking and Finance and majoring in capital markets and data science.
 -  I love coffee to the point where I buy decaf just so I can get the the smell, flavor and still sleep at night. :)
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons, browsing memes and more!
 
@@ -19,4 +19,4 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 
 ![200](https://user-images.githubusercontent.com/100568658/172659276-ad2c1b17-157d-4154-86e6-49307dc36c6e.gif)
 
- P.S. Having a short-break while focusing on university. I will be back with new projects related to SQL, Tableau and python automization.
+ P.S. The many personal projects are not uploaded to GIT
