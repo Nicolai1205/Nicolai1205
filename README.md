@@ -19,4 +19,4 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 
 ![200](https://user-images.githubusercontent.com/100568658/172659276-ad2c1b17-157d-4154-86e6-49307dc36c6e.gif)
 
- P.S. The many personal projects are not uploaded to GIT
+ P.S. Get me a job as a Software machine learning engineer at Google and I will work for half the salary for 6 months 
