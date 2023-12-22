@@ -1,4 +1,4 @@
-# Hey... I'm Nicolai! ![1-112](https://user-images.githubusercontent.com/100568658/172650710-090bc2c0-f26c-4e9b-afb0-996409b48307.png)
+# Hi... I'm Nicolai!
 ## How to Reach me ->
 Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolaisoendergaarddk/).
 To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
