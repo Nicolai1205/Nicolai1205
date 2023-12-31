@@ -1,6 +1,6 @@
 # Hi... I'm Nicolai!
 ## How to Reach me ->
-Find me professionally @ [LinkedIn]((https://www.linkedin.com/in/nicolai-soendergaard/)/).
+Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolai-soendergaard/).
 To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
 
 ## Bibliography
