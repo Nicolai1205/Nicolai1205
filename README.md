@@ -6,8 +6,8 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 ## Bibliography
 ![image](https://www.codewars.com/users/Nicolai1205/badges/micro)
 - Data analyst at UBS (Product owner, Analysis, Dashboarding, Python automations, lead scoring)
--  MSc ZHAW studying Banking and Finance and majoring in capital markets and data science.
--  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons, browsing memes and more!
+-  MSc ZHAW studying Banking and Finance and majored in capital markets and data science. (Graduated June 2023)
+-  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons and browsing memes
 
 ## What's going on?
 - Going back to basics and re-learning algorithms, object oriented programming and data structures,
