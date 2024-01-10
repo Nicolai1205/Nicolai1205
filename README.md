@@ -10,7 +10,7 @@ To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaar
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons and browsing memes
 
 ## What's going on?
-- Going back to basics and re-learning algorithms, object oriented programming and data structures,
+- Going back to basics, re-learning algorithms and data structures,
 to switch from Data analysis to software engineering.
 
 ![200](https://user-images.githubusercontent.com/100568658/172659276-ad2c1b17-157d-4154-86e6-49307dc36c6e.gif)
