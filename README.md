@@ -1,13 +1,14 @@
-# Hi... I'm Nicolai!
-## How to Reach me ->
-Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolai-soendergaard/).
-To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
+# Hello there!..
 
 ## Bibliography
 ![image](https://www.codewars.com/users/Nicolai1205/badges/micro)
 - Data analyst at UBS (Product owner, Analysis, Dashboarding, Python automations, lead scoring)
 -  MSc ZHAW studying Banking and Finance and majored in capital markets and data science. (Graduated June 2023)
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons and browsing memes
+
+## How to Reach me ->
+Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolai-soendergaard/).
+To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
 
 ## What's going on?
 - Going back to basics, re-learning algorithms and data structures,
