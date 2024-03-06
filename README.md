@@ -11,8 +11,7 @@ Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolai-soenderg
 To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
 
 ## What's going on?
-- Going back to basics, re-learning algorithms and data structures,
-to switch from Data analysis to software engineering.
+- Grinding various things. Codewars,Dune Analytics, general trading and of course, games.
 
 ![200](https://user-images.githubusercontent.com/100568658/172659276-ad2c1b17-157d-4154-86e6-49307dc36c6e.gif)
 
