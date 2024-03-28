@@ -6,9 +6,6 @@
 -  MSc ZHAW studying Banking and Finance and majored in capital markets and data science. (Graduated June 2023)
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons and browsing memes
 
-## How to Reach me ->
-Find me professionally @ [LinkedIn](https://www.linkedin.com/in/nicolai-soendergaard/).
-To see how I interact.. When I do.. @ [Twitter](https://twitter.com/Nsoendergaard).
 
 ## What's going on?
 - Grinding various things. Codewars,Dune Analytics, general trading and of course, games.
