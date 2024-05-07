@@ -13,6 +13,6 @@
 ![200](https://user-images.githubusercontent.com/100568658/172659276-ad2c1b17-157d-4154-86e6-49307dc36c6e.gif)
 
 ## Wait why are did you work so much and then stop again?
-- I just binge played Pokemon Violet and then moved on to Palworld. Gaming is dangerous :)
+- I balance a delicate line where I'll game nonstop 5 days in a row, only to pause and grind for the next 5
 
  
