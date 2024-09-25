@@ -2,8 +2,8 @@
 
 ## Bibliography
 ![image](https://www.codewars.com/users/Nicolai1205/badges/micro)
-- Data analyst at UBS (Product owner, Analysis, Dashboarding, Python automations, lead scoring)
--  MSc ZHAW studying Banking and Finance and majored in capital markets and data science. (Graduated June 2023)
+-  I do fun stuff at Nansen
+-  MSc Banking and Finance and majored in capital markets and data science.
 -  Hobbies include: Gaming, Esport, Working out, reading Manga/webtoons and browsing memes
 
 
